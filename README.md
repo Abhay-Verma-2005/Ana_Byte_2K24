@@ -38,7 +38,8 @@ Find the best hotels, flights, restaurants, and travel deals easily!
 ![Homepage Preview](images/out1.png)  
 ![Homepage Preview](images/out2.png)  
 ![Homepage Preview](images/out3.png)  
-
+![Homepage Preview](images/out4.png)  
+<br>
 ## 🌐 Future Updates
 - Add user login and personalized trip planning
 - Show real-time travel updates
