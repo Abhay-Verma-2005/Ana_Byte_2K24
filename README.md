@@ -35,10 +35,10 @@ Find the best hotels, flights, restaurants, and travel deals easily!
 ## 📸 Preview
 **Homepage Preview:** 
 
-![Homepage Preview](images/out1.png)  
-![Homepage Preview](images/out2.png)  
-![Homepage Preview](images/out3.png)  
-![Homepage Preview](images/out4.png)  
+![Homepage Preview](images/img1.png)  
+![Homepage Preview](images/img2.png)  
+![Homepage Preview](images/img3.png)  
+![Homepage Preview](images/img4.png)  
 <br>
 ## 🌐 Future Updates
 - Add user login and personalized trip planning
